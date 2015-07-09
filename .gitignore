@@ -1,0 +1,15 @@
+# generic (system) files/extensions we don't want
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+.idea/*
+*.iml
+*.DS_Store
+
+# folders we don't want
+node_modules
+
