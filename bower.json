@@ -1,0 +1,14 @@
+{
+  "name": "patternfly-lint",
+  "version": "0.0.1",
+  "authors": [
+    "Red Hat"
+  ],
+  "description": "Code quality tools for patternfly",
+  "keywords": [ "angular", "patternfly"],
+  "license": "EPL-1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/patternfly/patternfly-lint.git"
+  }
+}
