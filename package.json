@@ -1,7 +1,7 @@
 {
   "author": "Red Hat",
   "name": "patternfly-lint",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Patternfly code quality checkpoint",
   "devDependencies": {
     "grunt": "0.4.4",
